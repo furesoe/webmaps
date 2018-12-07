@@ -9,8 +9,10 @@
 <h2>Natur & Miljø</h2>
 
 - <a href="http://vidi/app/furesoe/?config=vand.json#geodk.bright/12/12.3737/55.8/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi" target="blank">VAND-temakort</a>
-- <a target="blank" href="http://vidi/app/furesoe/?config=konflikt.json">Konfliktsøgning</a>
-- <a target="blank" href="http://vidi/app/furesoe/?config=byggesag.json">Byggesag</a>
+- <a target="blank" href="vidi/app/furesoe/?config=spildevand.json#geodk.bright/13/12.3737/55.8/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi">SPILDEVAND-temakort</a>
+- <a target="blank" href="vidi/app/furesoe/?config=affaldvarme.json#geodk.bright/12/12.3737/55.8/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi">AFFALD & VARME-temakort</a>
+- <a target="blank" href="vidi/app/furesoe/?config=forurening.json#geodk.bright/12/12.3737/55.8/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi">FORURENING-temakort</a>
+- <a target="blank" href="vidi/app/furesoe/?config=landskab.json#geodk.bright/12/12.3737/55.8/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi">LANDSKAB-temakort</a>
 
 <h2>Vej & Park</h2>
 
