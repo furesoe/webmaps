@@ -9,7 +9,7 @@
 }
 </style>
 </head>
-<body>
+
 <h1>Furesø-temakort</h1>
 <button type="button" onclick="alert('Hello world!')">Click Me!</button>
 
