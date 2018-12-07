@@ -1,5 +1,8 @@
 <html>
 <body>
+  h1 {
+    color: #00ff00;
+}
 <h1>Furesø-temakort</h1>
 <button type="button" onclick="alert('Hello world!')">Click Me!</button>
 
