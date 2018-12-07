@@ -23,6 +23,7 @@
 - <a href="vidi/app/furesoe/?config=kultur_fritid.json#geodk.bright/12/12.4276/55.8/_04_parker_fritids_idraetsanlaeg_landskabspleje.idraetsfaciliteter_20181019,_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi,_04_parker_fritids_idraetsanlaeg_landskabspleje.udinaturen_faciliteter_point,_04_parker_fritids_idraetsanlaeg_landskabspleje.udinaturen_faciliteter_line,_04_parker_fritids_idraetsanlaeg_landskabspleje.udinaturen_faciliteter_polygon" target="blank">KULTUR & FRITID-temakort</a>
 
 <h2>Skole</h2>
+
 - <a href="vidi/app/furesoe/?config=skolevej.json#geodk.bright/12/12.4/55.8/_17_undervisning.skoledistrikter,_17_undervisning.institutioner_skole,_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi" target="blank">SKOLE-temakort</a>
 
 
