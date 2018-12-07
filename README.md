@@ -1,10 +1,7 @@
 <html>
 <head>
 <style>
-  body {
-    color: red;
-}
-  h1 {
+   h1 {
     color: #00ff00;
 }
 </style>
