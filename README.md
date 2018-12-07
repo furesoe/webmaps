@@ -16,7 +16,7 @@
 
 <h2>Vej & Park</h2>
 
-- <a href="vidi/app/furesoe/?config=vej_park.json#luftfotoserier.geodanmark_2017_12_5cm/12/12.4276/55.7969/" target="blank">VEJ % PARK-temakort</a>
+- <a href="vidi/app/furesoe/?config=vej_park.json#luftfotoserier.geodanmark_2017_12_5cm/12/12.4276/55.7969/" target="blank">VEJ & PARK-temakort</a>
 
 <h2>Kultur & Fritid</h2>
 
