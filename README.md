@@ -16,7 +16,14 @@
 
 <h2>Vej & Park</h2>
 
-<a href="http://vidi/app/furesoe/?config=vand.json#geodk.bright/12/12.3737/55.8/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi" target="blank">VAND-temakort</a>
+- <a href="vidi/app/furesoe/?config=vej_park.json#luftfotoserier.geodanmark_2017_12_5cm/12/12.4276/55.7969/" target="blank">VEJ % PARK-temakort</a>
+
+<h2>Kultur & Fritid</h2>
+
+- <a href="vidi/app/furesoe/?config=kultur_fritid.json#geodk.bright/12/12.4276/55.8/_04_parker_fritids_idraetsanlaeg_landskabspleje.idraetsfaciliteter_20181019,_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi,_04_parker_fritids_idraetsanlaeg_landskabspleje.udinaturen_faciliteter_point,_04_parker_fritids_idraetsanlaeg_landskabspleje.udinaturen_faciliteter_line,_04_parker_fritids_idraetsanlaeg_landskabspleje.udinaturen_faciliteter_polygon" target="blank">KULTUR & FRITID-temakort</a>
+
+<h2>Skole</h2>
+- <a href="vidi/app/furesoe/?config=skolevej.json#geodk.bright/12/12.4/55.8/_17_undervisning.skoledistrikter,_17_undervisning.institutioner_skole,_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi" target="blank">SKOLE-temakort</a>
 
 
 
