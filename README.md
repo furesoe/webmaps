@@ -14,6 +14,7 @@
 
 <h2>Vej & Park</h2>
 
+<a href="http://vidi/app/furesoe/?config=vand.json#geodk.bright/12/12.3737/55.8/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi" target="blank">VAND-temakort</a>
 
 
 
