@@ -1,5 +1,5 @@
 
-<h1>Furesø-temakort</h1>
+<h1>GIS-temakort, Furesø Kommune</h1>
 
 <h2>Plan & Byg</h2>
 
