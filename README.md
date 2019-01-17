@@ -17,7 +17,7 @@
 
 <h2>Vej & Park</h2>
 
-- <a href="http://vidi/app/furesoe/?config=vej_park.json#luftfotoserier.geodanmark_2017_12_5cm/12/12.4276/55.7969/" target="blank">VEJ & PARK-temakort</a>
+- <a href="http://vidi/app/furesoe/?config=vej_park.json#luftfotoserier.geodanmark_2017_12_5cm/12/12.4276/55.7969/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi" target="blank">VEJ & PARK-temakort</a>
 - <a href="http://vidi/app/furesoe/?config=anlaegsoversigt.json#luftfotoserier.geodanmark_2017_12_5cm/12/12/55.8/_00_grundkort.kommunemaske_stor,_05_veje_trafik.gadebelysning_armaturer,_05_veje_trafik.gadebelysning_taendretningsskabe,_00_grundkort.kommunegraense_dagi" target="blank">VEJBELYSNING - ANLÆGSOVERSIGT</a>
 
 
