@@ -29,6 +29,10 @@
 
 - <a href="http://vidi/app/furesoe/?config=skolevej.json#geodk.bright/12/12.4/55.8/_17_undervisning.skoledistrikter,_17_undervisning.institutioner_skole,_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi" >SKOLE-temakort</a>
 
+<h2>Sundhed</h2>
+
+- <a href="http://vidi/app/furesoe/?config=sundhed.json#geodk.bright/12/12.4/55.8/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi" >SUNDHED-temakort</a>
+
 
 
 
