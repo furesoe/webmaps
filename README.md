@@ -3,8 +3,8 @@
 
 <h2>Plan & Byg</h2>
 
-- <a href="http://vidi/app/furesoe/?config=plan.json#luftfotoserier.geodanmark_2017_12_5cm/13/12.3737/55.8/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi,_01_fysisk_plan_og_naturbeskyt.matrikel_ejerforhold_graenser,kommunekort.vejstykker_vejnavne_dawa">PLAN-temakort</a>
-- <a href="http://vidi/app/furesoe/?config=byggesag.json#luftfotoserier.geodanmark_2017_12_5cm/12/12.4276/55.7999/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi,_01_fysisk_plan_og_naturbeskyt.matrikel_ejerforhold_graenser,kommunekort.vejstykker_vejnavne_dawa">BYG-temakort</a>
+- <a href="http://vidi/app/furesoe/?config=plan.json#luftfotoserier.geodanmark_2018_12_5cm/13/12.3737/55.8/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi,_01_fysisk_plan_og_naturbeskyt.matrikel_ejerforhold_graenser,kommunekort.vejstykker_vejnavne_dawa">PLAN-temakort</a>
+- <a href="http://vidi/app/furesoe/?config=byggesag.json#luftfotoserier.geodanmark_2018_12_5cm/12/12.4276/55.7999/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi,_01_fysisk_plan_og_naturbeskyt.matrikel_ejerforhold_graenser,kommunekort.vejstykker_vejnavne_dawa">BYG-temakort</a>
 
 <h2>Natur & Miljø</h2>
 
