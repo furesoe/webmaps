@@ -22,7 +22,7 @@
 
 <h2>Kommunale ejendomme</h2>
 
-- <a href="http://vidi/app/furesoe/?	_82_kommunens_ejendomme_lokaler.kommunale_adresserconfig=kommunale_ejendomme.json#luftfotoserier.geodanmark_2018_12_5cm/12/12.4/55.8/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi,_82_kommunens_ejendomme_lokaler.inddeling,	_82_kommunens_ejendomme_lokaler.kommunale_adresser,kommunekort.vejstykker_vejnavne_dawa">KE-temakort</a>
+- <a href="http://vidi/app/furesoe/?config=kommunale_ejendomme.json#luftfotoserier.geodanmark_2018_12_5cm/12/12.4/55.8/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi,_82_kommunens_ejendomme_lokaler.inddeling,_82_kommunens_ejendomme_lokaler.kommunale_adresser,kommunekort.vejstykker_vejnavne_dawa">KE-temakort</a>
 
 <h2>Kultur & Fritid</h2>
 
