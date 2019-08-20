@@ -17,7 +17,7 @@
 
 <h2>Vej & Park</h2>
 
-- <a href="http://vidi/app/furesoe/?config=vej_park.json#luftfotoserier.geodanmark_2018_12_5cm/12/12.4/55.8/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi,_01_fysisk_plan_og_naturbeskyt.optagetvej,_01_fysisk_plan_og_naturbeskyt.matrikel_ejerforhold_graenser,kommunekort.vejstykker_vejnavne_dawa">VEJ-temakort</a>
+- <a href="http://vidi/app/furesoe/?config=vej_park.json#luftfotoserier.geodanmark_2018_12_5cm/12/12.4/55.8/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi,_01_fysisk_plan_og_naturbeskyt.optagetvej,_01_fysisk_plan_og_naturbeskyt.matrikel_ejerforhold_graenser,kommunekort.vejstykker_vejnavne_dawa_view">VEJ-temakort</a>
 - <a href="http://vidi/app/furesoe/?config=vp_anlaeg.json#geodk.bright/13/12.3774/55.8173/_05_veje_trafik.vp_anlaegsprojekt,_05_veje_trafik.anlaegsprojekter_2019,_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi,kommunekort.vejstykker_vejnavne_dawa">Anlægsprojekter 2019</a>
 - <a href="http://vidi/app/furesoe/?config=anlaegsoversigt.json#luftfotoserier.geodanmark_2018_12_5cm/12/12.4/55.8/_00_grundkort.kommunemaske_stor,_05_veje_trafik.gadebelysning_armaturer,_05_veje_trafik.gadebelysning_taendretningsskabe,_00_grundkort.kommunegraense_dagi,kommunekort.vejstykker_vejnavne_dawa" >VEJBELYSNING - ANLÆGSOVERSIGT</a>
 
