@@ -24,7 +24,6 @@
 <h2>Driftsgården</h2>
 
 - <a href="http://vidi/app/furesoe/?config=gartner.json#geodk.bright/12/12.4276/55.7966/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi">GARTNER-temakort</a>
-  
 - <a href="http://vidi/app/furesoe/?config=asfalt.json#geodk.bright/12/12.4276/55.7966/_00_grundkort.kommunemaske_stor,_00_grundkort.kommunegraense_dagi">ASFALT-temakort</a>  
 
 <h2>Kommunale ejendomme</h2>
