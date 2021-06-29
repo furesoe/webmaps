@@ -1,13 +1,13 @@
 <h1>Konfliktsøger, Furesø Kommune</h1>
 
-- <a href="http://vidi-furesoe/app/furesoe/?config=konflikt_brutto.json#luftfotoserier.geodanmark_2019_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">Konfliktsøgeren</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=konflikt_brutto.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">Konfliktsøgeren</a>
 
 <h1>GIS-temakort, Furesø Kommune</h1>
 
 <h2>Plan & Byg</h2>
 
-- <a href="http://vidi-furesoe/app/furesoe/?config=plan.json#luftfotoserier.geodanmark_2019_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi,	_00_grundkort.optagetvej,_00_grundkort.mat_ejeregeoview_graenser,kommunekort.vejstykker_vejnavne_dawa">PLAN-temakort</a>
-- <a href="http://vidi-furesoe/app/furesoe/?config=byggesag.json#luftfotoserier.geodanmark_2019_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi,	_00_grundkort.optagetvej,_00_grundkort.mat_ejeregeoview_graenser,kommunekort.vejstykker_vejnavne_dawa">BYG-temakort</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=plan.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi,	_00_grundkort.optagetvej,_00_grundkort.mat_ejeregeoview_graenser,kommunekort.vejstykker_vejnavne_dawa">PLAN-temakort</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=byggesag.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi,	_00_grundkort.optagetvej,_00_grundkort.mat_ejeregeoview_graenser,kommunekort.vejstykker_vejnavne_dawa">BYG-temakort</a>
 
 <h2>Natur & Miljø</h2>
 
@@ -20,9 +20,9 @@
 
 <h2>Vej & Park</h2>
 
-- <a href="http://vidi-furesoe/app/furesoe/?config=vej_park.json#luftfotoserier.geodanmark_2019_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi,	_00_grundkort.optagetvej,_00_grundkort.mat_ejeregeoview_graenser,kommunekort.vejstykker_vejnavne_dawa">VEJ-temakort</a>
-- <a href="http://vidi-furesoe/app/furesoe/?config=vp_anlaeg.json#geodk.bright/13/12.3774/55.8173/_05_veje_trafik.vp_anlaegsprojekt,_05_veje_trafik.anlaegsprojekter_2019,_00_grundkort.kommunegraense_dagi,kommunekort.vejstykker_vejnavne_dawa">Anlægsprojekter 2019</a>
-- <a href="http://vidi-furesoe/app/furesoe/?config=anlaegsoversigt.json#luftfotoserier.geodanmark_2019_12_5cm/12/12.4/55.8/_05_veje_trafik.gadebelysning_armaturer,_05_veje_trafik.gadebelysning_taendretningsskabe,_00_grundkort.kommunegraense_dagi,kommunekort.vejstykker_vejnavne_dawa" >VEJBELYSNING - ANLÆGSOVERSIGT</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=vej_park.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi,	_00_grundkort.optagetvej,_00_grundkort.mat_ejeregeoview_graenser,kommunekort.vejstykker_vejnavne_dawa">VEJ-temakort</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=vp_anlaeg.json#geodk.bright/13/12.3774/55.8173/_05_veje_trafik.vp_anlaegsprojekt,_05_veje_trafik.anlaegsprojekter_2020,_00_grundkort.kommunegraense_dagi,kommunekort.vejstykker_vejnavne_dawa">Anlægsprojekter 2020</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=anlaegsoversigt.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_05_veje_trafik.gadebelysning_armaturer,_05_veje_trafik.gadebelysning_taendretningsskabe,_00_grundkort.kommunegraense_dagi,kommunekort.vejstykker_vejnavne_dawa" >VEJBELYSNING - ANLÆGSOVERSIGT</a>
 
 <h2>Driftsgården</h2>
 
@@ -31,7 +31,7 @@
 
 <h2>Kommunale ejendomme</h2>
 
-- <a href="http://vidi-furesoe/app/furesoe/?config=kommunale_ejendomme.json#luftfotoserier.geodanmark_2019_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi,_82_kommunens_ejendomme_lokaler.inddeling,_82_kommunens_ejendomme_lokaler.kommunale_adresser,kommunekort.vejstykker_vejnavne_dawa">KE-temakort</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=kommunale_ejendomme.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi,_82_kommunens_ejendomme_lokaler.inddeling,_82_kommunens_ejendomme_lokaler.kommunale_adresser,kommunekort.vejstykker_vejnavne_dawa">KE-temakort</a>
 
 <h2>Kultur & Fritid</h2>
 
