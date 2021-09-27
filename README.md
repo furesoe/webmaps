@@ -6,7 +6,7 @@
 
 <h2>Plan & Byg</h2>
 
-- <a href="http://vidi-furesoe/app/furesoe/?config=plan.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi,	_00_grundkort.optagetvej,_00_grundkort.mat_ejeregeoview_graenser,kommunekort.vejstykker_vejnavne_dawa">PLAN-temakort</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_plan_temakort_6151b1e3cc9da181026575.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi,kommunekort.vejstykker_vejnavne_dawa,_00_grundkort.mat_ejeregeoview_graenser,_00_grundkort.optagetvej">PLAN-temakort</a>
 - <a href="http://vidi-furesoe/app/furesoe/?config=byggesag.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi,	_00_grundkort.optagetvej,_00_grundkort.mat_ejeregeoview_graenser,kommunekort.vejstykker_vejnavne_dawa">BYG-temakort</a>
 
 <h2>Natur & Miljø</h2>
