@@ -39,7 +39,7 @@
 
 <h2>Skole</h2>
 
-- <a href="http://vidi-furesoe/app/furesoe/?config=skolevej.json#geodk.bright/12/12.4/55.8/_17_undervisning.skoledistrikter,_17_undervisning.institutioner_skole,_00_grundkort.kommunegraense_dagi" >SKOLE-temakort</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_skole_temakort_615b0ccf323c9363758742.json#Basis_kort/12/12.4/55.8/_00_grundkort.kommunegraense_dagi" >SKOLE-temakort</a>
 
 <h2>Sundhed</h2>
 
