@@ -31,7 +31,7 @@
 
 <h2>Kommunale ejendomme</h2>
 
-- <a href="http://vidi-furesoe/app/furesoe/?config=kommunale_ejendomme.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi,_82_kommunens_ejendomme_lokaler.inddeling,_82_kommunens_ejendomme_lokaler.kommunale_adresser,kommunekort.vejstykker_vejnavne_dawa">KE-temakort</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_ke_temakort_615b09ca88800773290377.json#Basis_kort/12/12.4/55.8/_82_kommunens_ejendomme_lokaler.inddeling,_00_grundkort.kommunegraense_dagi,_82_kommunens_ejendomme_lokaler.kommunale_adresser">KE-temakort</a>
 
 <h2>Kultur & Fritid</h2>
 
