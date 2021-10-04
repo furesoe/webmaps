@@ -35,7 +35,7 @@
 
 <h2>Kultur & Fritid</h2>
 
-- <a href="http://vidi-furesoe/app/furesoe/?config=kultur_fritid.json#geodk.bright/12/12.4/55.8/_04_parker_fritids_idraetsanlaeg_landskabspleje.idraetsfaciliteter_20181019,_00_grundkort.kommunegraense_dagi,_04_parker_fritids_idraetsanlaeg_landskabspleje.udinaturen_faciliteter_point,_04_parker_fritids_idraetsanlaeg_landskabspleje.udinaturen_faciliteter_line,_04_parker_fritids_idraetsanlaeg_landskabspleje.udinaturen_faciliteter_polygon" >KULTUR & FRITID-temakort</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_kultur_og_fritid_temakort_615b0bab425c6041837753.json#Basis_kort/12/12.4/55.8/_04_parker_fritids_idraetsanlaeg_landskabspleje.idraetsfaciliteter_20181019,_00_grundkort.kommunegraense_dagi,_04_parker_fritids_idraetsanlaeg_landskabspleje.udinaturen_faciliteter_point,_04_parker_fritids_idraetsanlaeg_landskabspleje.udinaturen_faciliteter_line,_04_parker_fritids_idraetsanlaeg_landskabspleje.udinaturen_faciliteter_polygon" >KULTUR & FRITID-temakort</a>
 
 <h2>Skole</h2>
 
