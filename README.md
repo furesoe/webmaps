@@ -12,7 +12,7 @@
 <h2>Natur & Miljø</h2>
 
 - <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_vand_temakort_615aedb29b564960892457.json#geodk.bright/12/12.4/55.8/_00_grundkort.kommunegraense_dagi,_00_grundkort.mat_ejeregeoview_graenser">VAND-temakort</a>
-- <a href="http://vidi-furesoe/app/furesoe/?config=miljoe_spildevand.json#geodk.bright/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">SPILDEVAND-temakort</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_spildevand_temakort_615aef47c1e73434401075.json#geodk.bright/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">SPILDEVAND-temakort</a>
 - <a href="http://vidi-furesoe/app/furesoe/?config=miljoe_affaldvarme.json#geodk.bright/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">AFFALD & VARME-temakort</a>
 - <a href="http://vidi-furesoe/app/furesoe/?config=miljoe_forurening.json#geodk.bright/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">FORURENING-temakort</a>
 - <a href="http://vidi-furesoe/app/furesoe/?config=miljoe_landskab.json#geodk.bright/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">LANDSKAB-temakort</a>
