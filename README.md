@@ -16,7 +16,7 @@
 - <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_affald_og_varme_temakort_615af087cdc23686582656.json#geodk.bright/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">AFFALD & VARME-temakort</a>
 - <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_forurening_temakort_615af1ba318b6985404900.json#geodk.bright/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">FORURENING-temakort</a>
 - <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_landskab_temakort_615af2a64f93c666092879.json#geodk.bright/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">LANDSKAB-temakort</a>
-- <a href="http://vidi-furesoe/app/furesoe/?config=miljoe_naturforvaltning.json#geodk.bright/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">NATUR-temakort</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_natur_temakort_615af3e77f91d689376358.json#geodk.bright/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">NATUR-temakort</a>
 
 <h2>Vej & Park</h2>
 
