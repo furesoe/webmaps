@@ -12,10 +12,10 @@
 <h2>Natur & Miljø</h2>
 
 - <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_vand_temakort_615aedb29b564960892457.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">VAND-temakort</a>
-- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_spildevand_temakort_615aef47c1e73434401075.json#geodk.bright/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">SPILDEVAND-temakort</a>
-- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_affald_og_varme_temakort_615af087cdc23686582656.json#geodk.bright/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">AFFALD & VARME-temakort</a>
-- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_forurening_temakort_615af1ba318b6985404900.json#geodk.bright/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">FORURENING-temakort</a>
-- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_landskab_temakort_615af2a64f93c666092879.json#geodk.bright/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">LANDSKAB-temakort</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_spildevand_temakort_615aef47c1e73434401075.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">SPILDEVAND-temakort</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_affald_og_varme_temakort_615af087cdc23686582656.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">AFFALD & VARME-temakort</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_forurening_temakort_615af1ba318b6985404900.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">FORURENING-temakort</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_landskab_temakort_615af2a64f93c666092879.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">LANDSKAB-temakort</a>
 - <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_natur_temakort_615af3e77f91d689376358.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">NATUR-temakort</a>
 
 <h2>Vej & Park</h2>
