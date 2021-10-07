@@ -18,10 +18,9 @@
 - <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_landskab_temakort_615af2a64f93c666092879.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">LANDSKAB-temakort</a>
 - <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_natur_temakort_615af3e77f91d689376358.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">NATUR-temakort</a>
 
-<h2>Vej & Park</h2>
+<h2>Vej, trafik & grøn omstilling</h2>
 
 - <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_vej_temakort_6151acb3bc5f6118230192.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.optagetvej,kommunekort.vejstykker_vejnavne_dawa,_00_grundkort.kommunegraense_dagi,_00_grundkort.mat_ejeregeoview_graenser">VEJ-temakort</a>
-- <a href="http://vidi-furesoe/app/furesoe/?config=vp_anlaeg.json#geodk.bright/13/12.3774/55.8173/_05_veje_trafik.vp_anlaegsprojekt,_05_veje_trafik.anlaegsprojekter_2020,_00_grundkort.kommunegraense_dagi,kommunekort.vejstykker_vejnavne_dawa">Anlægsprojekter 2020</a>
 - <a href="http://vidi-furesoe/app/furesoe/?config=anlaegsoversigt.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_05_veje_trafik.gadebelysning_armaturer,_05_veje_trafik.gadebelysning_taendretningsskabe,_00_grundkort.kommunegraense_dagi,kommunekort.vejstykker_vejnavne_dawa" >VEJBELYSNING - ANLÆGSOVERSIGT</a>
 
 <h2>Driftsgården</h2>
