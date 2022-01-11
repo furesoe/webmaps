@@ -1,6 +1,6 @@
 <h1>Konfliktsøger, Furesø Kommune</h1>
 
-- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_konflikt_test_5de6681271116382296197.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">Konfliktsøgeren</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_konfliktsger_61dd92551e92e500963161.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/_00_grundkort.kommunegraense_dagi">Konfliktsøgeren</a>
 
 <h1>GIS-temakort, Furesø Kommune</h1>
 
