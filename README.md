@@ -42,7 +42,7 @@
 
 <h2>Sundhed og seniorliv</h2>
 
-- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_css_temakort_604f93ebb8f95503572772.json#Basis_kort/12/12.3926/55.8012/_27_social_service.distrikter_css,_27_social_service.plejecentre" >SUNDHED-temakort</a>
+- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_css_temakort_604f93ebb8f95503572772.json#Basis_kort/12/12.3926/55.8012/_27_social_service.distrikter_css" >SUNDHED-temakort</a>
 
 
 
