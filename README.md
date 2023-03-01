@@ -28,7 +28,7 @@
 - <a href="https://vidi-furesoe.mapcentia.com/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_gartner_temakort_615b0042c9418104531812.json#Basis_kort/12/12.4/55.8/	_00_grundkort.jordstykke">GARTNER-temakort</a>
 - <a href="https://vidi-furesoe.mapcentia.com/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_asfalt_temakort_615b009ed019c857466410.json#Basis_kort/12/12.4/55.8/">ASFALT-temakort</a>
 - <a href="http://vidi-furesoe.mapcentia.com/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_vejafvanding_63c7c991c03e5247526904.json#luftfotoserier.geodanmark_2021_12_5cm/12/12.3318/55.7898/le34_lerdb.afloebspolygon,le34_lerdb.afloebsledning,le34_lerdb.afloebsknude">VEJAFVANDING-temakort</a>
-- <a href="https://vidi-furesoe.mapcentia.com/app/furesoe_ekstern/?config=/api/v2/configuration/furesoe_ekstern/configuration_editor_5dc3f68be5dcc321909755.json#luftfotoserier.geodanmark_2021_12_5cm/12/12.3706/55.7948/furesoe_editor.traetabel,public.komgraense">GRØN DRIFT-temakort</a>
+- <a href="https://vidi-furesoe.mapcentia.com/app/furesoe_ekstern/?config=/api/v2/configuration/furesoe_ekstern/configuration_editor_5dc3f68be5dcc321909755.json#luftfotoserier.geodanmark_2021_12_5cm/12/12.3706/55.7948/public.komgraense">GRØN DRIFT-temakort</a>
 
 
 <h2>Kommunale ejendomme</h2>
