@@ -2,6 +2,10 @@
 
 - <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_konfliktsger_61dd92551e92e500963161.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/">Konfliktsøgeren</a>
 
+<h1>Brevflet, Furesø Kommune</h1>
+
+- <a href="http://vidi-furesoe/app/furesoe/?config=/api/v2/configuration/furesoe/configuration_konfliktsger_61dd92551e92e500963161.json#luftfotoserier.geodanmark_2020_12_5cm/12/12.4/55.8/">Konfliktsøgeren</a>
+
 <h1>GIS-temakort, Furesø Kommune</h1>
 
 <h2>Plan & Byg</h2>
